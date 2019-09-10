@@ -58,15 +58,12 @@
  "EMPBUH":"2119",
  "EMPSTATUS":"Y",
  "EMPLASTWORKINGDAY":""
-       }
-    ]
-  },
-    {
- "status":"SUCCESS",
- "message":"NULL",
- "employeeDetails": [
-  { 
- "id": 2,
+       },
+   
+   
+   
+   { 
+ "id": 1,
  "HRMSNO":"12515",
  "EMPTITLE":"MR.",
  "EMP_FIRST_NAME":"SATISH",
@@ -108,8 +105,14 @@
  "EMPSTATUS":"Y",
  "EMPLASTWORKINGDAY":""
        }
+   
+   
+   
+   
+   
     ]
   }
+    
 ],
   
   "profilesss": {
