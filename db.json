@@ -11,7 +11,7 @@
     { "id": 2, "body": "some comment", "postId": 2 }
   ],
 
-  "Response":[
+  "EMPDetails":[
 {
  "status":"SUCCESS",
  "message":"NULL",
