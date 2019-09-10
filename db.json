@@ -11,7 +11,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
 
-  Response:
+  Response:[
 {
  "status":"SUCCESS",
  "message":"NULL",
@@ -41,7 +41,7 @@
  "RM1LDAPID":"shriyanka21172",
  "RM2":"9947",
  "RM2LDAPID":"shashank9947",
- "RM3":"20970"
+ "RM3":"20970",
    "RM3LDAPID":"abhijit20970",
  "RM4":"2119",
  "RM4LDAPID":"venkattesh3317",
@@ -58,6 +58,7 @@
  "EMPLASTWORKINGDAY":""
  }
 }
+    ],
   
   
   
