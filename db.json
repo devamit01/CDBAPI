@@ -10,13 +10,8 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profilesss": {
-    "name": "typicode",
-    "name": "code",
-    "name": "typi"
-  },
   
-  "employeeDetails":[
+   "employeeDetails":[
     {"id": 1,
 "HRMSNO":"12515",
 "EMPTITLE":"MR.",
@@ -60,6 +55,17 @@
  "EMPLASTWORKINGDAY":""
  }
     ]
+  
+  
+  
+  
+  "profilesss": {
+    "name": "typicode",
+    "name": "code",
+    "name": "typi"
+  }
+  
+ 
   
   
 }
