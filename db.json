@@ -11,6 +11,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   
+  {
+  "status":"SUCCESS",
+ "message":"NULL",
    "employeeDetails":[
     {"id": 1,
 "HRMSNO":"12515",
@@ -99,7 +102,7 @@
  "EMPLASTWORKINGDAY":""
  }
     ],
-  
+}
   
   
   
